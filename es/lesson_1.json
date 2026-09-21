@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1,
+    "Name": "Hola, ¿qué tal? (Powitania i pożegnania)",
+    "Content": "**Lekcja 1: Hola, ¿qué tal? (Powitania i pożegnania)**\n***1. Wstęp kulturowy (Ciekawostka)***\nW świecie hiszpańskojęzycznym powitania bywają bardzo ciepłe. Wśród znajomych i rodziny standardem jest dos besos (dwa pocałunki w policzek – zazwyczaj zaczynając od prawego). W sytuacjach oficjalnych lub biznesowych podaje się rękę.2. Słowniczek (Vocabulario)Powitania (Saludos):Hola – CześćBuenos días – Dzień dobry (rano / przed południem)Buenas tardes – Dzień dobry / Dobry wieczór (popołudniu / wieczorem)Buenas noches – Dobry wieczór / Dobranoc (późny wieczór)¿Qué tal? – Jak leci? / Co słychać? (nieoficjalnie)¿Cómo está usted? – Jak się pan / pani miewa? (oficjalnie)Odpowiedzi na 'Co słychać?':Muy bien, gracias – Bardzo dobrze, dziękuję.Todo bien – Wszystko w porządku.Así así – Tak sobie / Tak sobie, w porządku.¿Y tú? / ¿Y usted? – A ty? / A pan / pani?Pożegnania (Despedidas):Adiós – Do widzenia / CześćHasta luego – Do zobaczenia późniejHasta mañana – Do jutraChao – Cześć (potocznie, przy pożegnaniu)Buenas noches – Dobrej nocy3. Mini-dialog (Diálogo)Sytuacja: Dwóch znajomych spotyka się na ulicy.Carlos: ¡Hola, Ana! ¿Qué tal?(Cześć, Ana! Co słychać?)Ana: ¡Hola, Carlos! Muy bien, gracias. ¿Y tú?(Cześć, Carlos! Bardzo dobrze, dziękuję. A ty?)Carlos: Todo bien, gracias. ¡Hasta luego!(Wszystko w porządku, dziękuję. Do zobaczenia później!)Ana: ¡Chao, adiós!(Cześć, pa!)4. Sekcja ćwiczeniowa do aplikacji (Ejercicios)Ćwiczenie 1: Dopasuj pary (Match the pairs)Połącz hiszpańskie zwroty z ich polskimi tłumaczeniami.Buenos días $\rightarrow$ Dzień dobry (rano)Hasta luego $\rightarrow$ Do zobaczenia później¿Qué tal? $\rightarrow$ Co słychać?Adiós $\rightarrow$ Do widzeniaĆwiczenie 2: Wybierz właściwą formę (Multiple Choice)Jak powiesz „Dzień dobry” o godzinie 17:00 (popołudniu)?A) Buenos díasB) Buenas tardes (poprawna)C) Buenas nochesĆwiczenie 3: Ułóż dialog (Ordering)Ułóż rozsypane zdania w logiczną kolejność:¡Hola, Marta!¿Qué tal?Muy bien, gracias.",
+    "Dictionary": [
+      {
+        "Foreign": "Hola",
+        "Foreign_sentence": "¡Hola! ¿Qué tal?",
+        "PL": "Cześć",
+        "PL_sentence": "Cześć! Jak się masz?",
+        "category": "Powitania i zwroty"
+      }
+    ]
+  }
+]
